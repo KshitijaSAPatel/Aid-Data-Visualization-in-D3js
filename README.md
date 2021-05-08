@@ -8,7 +8,7 @@
 ### Notebooks and Code :
 Observable notebooks were used to write and run the codes.
 <ul>
- <li> Part 1 : </li>
+ <li> Part 1 : https://observablehq.com/d/8a30891a487f027e </li>
  <li> Part 2 : https://observablehq.com/d/3bcb72339a5a731c </li>
  <li> Part 3 : https://observablehq.com/d/921e44ea01c02a89 </li>
 </ul>
