@@ -1,9 +1,7 @@
 # Aid Data Visualization in D3.js
 
- Exploratory data analysis of AidData of aids exchanged between countries in D3.js. This data was collected from https://www.aiddata.org/ and the data is as follows:
+ Exploratory data analysis of AidData of aids exchanged between countries in D3.js.
  
-![alt text](https://github.com/KshitijaSAPatel/Aid-Data-Visualization-in-D3js/blob/main/Data_sample.png)
-
 ----
 ### Notebooks and Code :
 Observable notebooks were used to write and run the codes.
@@ -12,6 +10,12 @@ Observable notebooks were used to write and run the codes.
  <li> Part 2 : https://observablehq.com/d/3bcb72339a5a731c </li>
  <li> Part 3 : https://observablehq.com/d/921e44ea01c02a89 </li>
 </ul>
+
+----
+ 
+This data was collected from https://www.aiddata.org/ and the data is as follows:
+ 
+![alt text](https://github.com/KshitijaSAPatel/Aid-Data-Visualization-in-D3js/blob/main/Data_sample.png)
 
 ----
 ### Questions and Visualizations :
